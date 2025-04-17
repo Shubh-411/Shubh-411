@@ -12,9 +12,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Shubh-411&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shubh-411&icon=9&color=11)](https://visitcount.itsvg.in)
-
-![Visitor Count](https://profile-counter.glitch.me/Shubh-411/count.svg)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Shubh-411&icon=9&color=11)
 
 ---
 
