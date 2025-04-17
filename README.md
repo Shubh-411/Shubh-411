@@ -3,6 +3,7 @@
 🚀 Frontend Developer | 💡 Problem Solver | 🎯 Lifelong Learner  
 📍 Rewa, India | 💼 3+ Years Experience
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubh-411&label=Profile%20views&color=0e75b6&style=flat" alt="Shubh-411" /> </p>
 ---
 # 💫 About Me:
 🔭 I’m currently working on enhancing my skills and contributing to open-source projects.  <br>🌱 I’m currently learning advanced React patterns and TypeScript.  <br>👯 I’m looking to collaborate on innovative frontend projects.  <br>🤔 I’m looking for help with complex state management and UI architecture.  <br>💬 Ask me about React, JavaScript (ES6+), Tailwind CSS, and performance optimization.  <br>📫 How to reach me: shubhamshukla813@gmail.com  <br>😄 Pronouns: He/Him  <br>⚡ Fun fact: I enjoy playing football, and I love building side projects that solve real-world problems!<br>
@@ -11,10 +12,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shubh-411&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Shubh-411&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shukla__shubh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham04shukla/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamshukla813@gmail.com) 
