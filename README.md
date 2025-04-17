@@ -14,6 +14,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shubh-411&icon=9&color=11)](https://visitcount.itsvg.in)
 
+![Visitor Count](https://profile-counter.glitch.me/Shubh-411/count.svg)
+
 ---
 
 ## 🌐 Socials:
